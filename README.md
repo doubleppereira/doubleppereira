@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working at **Rows**
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`
-- 🌍 I'm mostly active within the **Laravel Community**
+- 🌍 I'm mostly active within the **JS Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
 - 📫 Reach me: [twitter.com/oizie](https://twitter.com/oizie)
