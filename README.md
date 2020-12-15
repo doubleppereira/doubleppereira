@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**doubleppereira/doubleppereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Software Developer working in Porto, Portugal.
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Rows**
+- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **development**, **design thinking**
+- 📫 Reach me: [twitter.com/oizie](https://twitter.com/oizie)
+- ⚡️ Fun fact: I'm a huge fan of anime and love playing games
+
+![doubleppereira's github stats](https://github-readme-stats.vercel.app/api?username=doubleppereira&count_private=true)
