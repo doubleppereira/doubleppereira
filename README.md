@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Rows**
+- 🏢 I'm currently working at **OLX Group**
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`
 - 🌍 I'm mostly active within the **JS Community**
 - 🌱 Learning all about **Open Source**
