@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Lukso**
+- 🏢 I'm currently working at [**Lukso**](https://github.com/lukso-network)
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`
 - 🌍 I'm mostly active within the **JS Community**
 - 🌱 Learning all about **Open Source**
